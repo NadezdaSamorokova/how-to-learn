@@ -1,0 +1,14 @@
+.header__subtitle {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+  
+    position: absolute;
+    width: 388px;
+    left: 64px;
+    bottom: 30px;
+    text-align: left;
+    z-index: 2;
+    margin: 0;
+  }
