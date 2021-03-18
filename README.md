@@ -14,4 +14,5 @@ The projec containes following files and folders:
 * README.md - this file
 * texts.md - test used by filling the index.thml
 
+
 Enjoy!
