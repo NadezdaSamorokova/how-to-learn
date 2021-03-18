@@ -1,18 +1,37 @@
 # how-to-learn
-## Yandex.Praktikum
+## Яндекс.Практикум
 [https://praktikum.yandex.ru/web]
 
-The project is designed for not only learn you how to work with HTML and CSS and create a basic web-layout, but also to learn you how to learn.
+Проект разработан не только для изучения основ веб-вёрстки, HTML и CSS, а так же для того, чтобы научиться как учиться и делать это более эффективно.
 
-The projec containes following files and folders:
+### Проект содержит следующие папки и файлы:
 
-* blocks - all the .css files for the project sorted using Nested BEM rules
-* images - images used for the project
-* pages - main .css file with imported files from the folder *blocks*
-* vendor - contains basic tune-up .css file created without using block classes
-* index.html - main file
-* README.md - this file
-* texts.md - test used by filling the index.thml
+* blocks - все .css файлы необходимые для проекта, рассортированные по правилам Nested БЭМ
+* images - изображения, используемые для проекта
+* pages -  основной файл .css с импортированными файлами из папки *blocks*
+* vendor - код сторонних разработчиков, прописанный без использования классов
+* index.html - структура страницы, основной код
+* README.md - этот файл
+* texts.md - тексты, необходимые для заполнения index.thml контентом
+
+### Технологии
+
+* Flexbox-вёрстка
+* Грид-контейнер
+* Флекс-позиционирование
+* Семанитика HTML
+* iframe
+* @keyframe
+* @import
+
+### При разработке были использованы программы:
+
+* Visual Studio Code 
+* Git Bush
 
 
-Enjoy!
+
+
+
+
+
