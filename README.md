@@ -1,6 +1,6 @@
 # Project how-to-learn
 ## Yandex Practicum
-[https://practicum.yandex.ru/frontend-developer/]
+[https://nadezdasamorokova.github.io/how-to-learn/]
 
 The project is designed not only to learn the basics of web layout, HTML and CSS, but also to learn how to learn and do it more effectively.
 
